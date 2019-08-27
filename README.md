@@ -16,7 +16,6 @@ This repository contains project files and lecture notes for Udacity's Machine L
 - **Model selection**  
   Types of errors, various types of cross validation, learning curves, grid search
 
-**See lecture notes:** [here](1_evaluation_and_validation.pdf)
 
 ### Supervised learning
 
@@ -30,8 +29,6 @@ This repository contains project files and lecture notes for Udacity's Machine L
   Prior probability, posterior probability, naive bayes
 - **Support vector machines**  
   Idea, different types of errors, basic working principle, etc.
-
-**See lecture notes:** [here](2_supervised_learning.pdf)
 
 ### Unsupervised learning
 
@@ -48,8 +45,6 @@ This repository contains project files and lecture notes for Udacity's Machine L
 - **Random projection and ICA**  
   Johnson-Lindenstrauss lemma, ICA, applications
 
-**See lecture notes:** [here](3_unsupervised_learning.pdf)
-
 ### Deep learning
 (Less comprehensive due to my prior knowledge)
 
@@ -61,8 +56,6 @@ This repository contains project files and lecture notes for Udacity's Machine L
   Regularization, dropout, vanishing gradients and activation function, momentum, keras optimisers
 - **Convolutional neural networks**  
   Model validation, image augmentation
-
-**See lecture notes:** [here](4_deep_learning.pdf)
 
 ### Reinforcement learning
 
@@ -84,5 +77,3 @@ Sarsamax (Q-learning), expected Sarsa
 - **Policy-based methods**  
 Policy function approximation, stochastic policy search, policy gradients, Monte Carlo policy gradients, constrained policy gradients
 - **Actor-critic methods**  
-
-**See lecture notes:** [here](5_reinforcement_learning.pdf)
